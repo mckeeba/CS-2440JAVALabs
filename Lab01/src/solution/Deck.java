@@ -2,16 +2,14 @@ package solution;
 /**
  * PlayingCard.java
  * 
- * @author Mitch Parry
- * @version May 6, 2013
+ * @author Gus
  */
 import java.util.Random;
 import java.util.ArrayList;
 
 /**
- * The Deck represents a 52 PlayingCards in a deck.
- * @version August 13, 2013
- * @author Mitch Parry
+ * The Deck represents a 52 PlayingCards in a deck
+ * 
  */
 public class Deck 
 {
