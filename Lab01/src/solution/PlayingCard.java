@@ -8,8 +8,8 @@ package solution;
  * This class as given represents a playing card with Suits but no Rank. Your
  * job is to implement Ranks by creating the code described at the TODO markers.
  * 
- * @author Mitch Parry
- * @version May 6, 2013
+ * @author Gus
+ * 
  */
 public class PlayingCard
 {
