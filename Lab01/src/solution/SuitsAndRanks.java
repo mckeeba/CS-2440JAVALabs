@@ -11,8 +11,7 @@ package solution;
  * to add code wherever you see a TODO marker to implement the same
  * functionality for Rank.
  * 
- * @author Mitch Parry
- * @version May 6, 2013
+ * @author Gus
  */
 public class SuitsAndRanks 
 {
