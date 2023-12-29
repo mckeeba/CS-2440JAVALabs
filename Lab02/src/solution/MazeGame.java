@@ -10,7 +10,7 @@ import java.util.Scanner;
 /**
  * A maze game.
  * 
- * @author
+ * @Gus Mckee
  * @version
  *
  */
