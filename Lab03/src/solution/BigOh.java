@@ -10,8 +10,8 @@ import util.Algorithms;
 /**
  * Contains methods to analyze time complexity of algorithms.
  * 
- * @author Mitch Parry
- * @version 2014-01-28
+ * @author Gus Mckee
+ * @version
  * 
  */
 public class BigOh
