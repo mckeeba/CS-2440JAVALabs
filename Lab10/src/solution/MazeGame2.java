@@ -7,8 +7,8 @@ import java.util.Scanner;
 /**
  * MazeGame2 is a backtracking version of MazeGame.
  * 
- * @author Mitch Parry
- * @version 2015-06-02
+ * @author Gus Mckee
+ * @version 
  */
 public class MazeGame2
 {
